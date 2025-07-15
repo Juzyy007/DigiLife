@@ -1282,9 +1282,11 @@
             <slidelink slideid="_player.5zR0LxmryMS.5khv3olVSao" displaytext="TY BG" expand="false" type="slide" />
           </links>
         </slidelink>
-        <slidelink slideid="_player.6GHMxvXUc5c" displaytext="Profil Pengembang" expand="true" type="slide">
+        <slidelink slideid="_player.6GHMxvXUc5c" displaytext="Info" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6GHMxvXUc5c.6jjfTHyqoqA" displaytext="Profil Pengembang" expand="false" type="slide" />
+            <slidelink slideid="_player.6GHMxvXUc5c.6GLOv5J91S6" displaytext="Profil Pengembang" expand="false" type="slide" />
+            <slidelink slideid="_player.6GHMxvXUc5c.6B3VnoP7ZVJ" displaytext="Profil Pengembang" expand="false" type="slide" />
             <slidelink slideid="_player.6GHMxvXUc5c.6ZggpW47282" displaytext="Profil Pengembang" expand="false" type="slide" />
           </links>
         </slidelink>
